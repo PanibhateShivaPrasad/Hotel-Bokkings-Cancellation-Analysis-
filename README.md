@@ -1,8 +1,6 @@
 # Hotel-Bookings-Cancellation-Analysis
 📊 Project Overview
 
-This README documents a comprehensive hotel booking cancellation analysis dashboard that tracks 119,390 total bookings with 44,225 cancellations, representing a 39% cancellation rate. The dashboard provides critical insights into booking patterns, seasonal trends, and customer behavior to optimize hotel revenue management.
-
 Key Features Documented
 The README includes detailed documentation of your dashboard's main components:
 
